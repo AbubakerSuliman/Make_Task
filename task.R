@@ -1,4 +1,4 @@
-## Load required libraries for the script
+## Load required libraries for test_plot.R
 pacman::p_load(ggplot2)
 
 ## This will need to be changed to your local settings
